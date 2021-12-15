@@ -6,7 +6,7 @@
     "semestre": 1,
     "descrizione": "descrizione per l'insegnamento",
     "superato":true
-  }
+  },
    {
     "nome": "Statistica",
     "docente": "Ippoliti",
@@ -14,7 +14,7 @@
     "semestre": 2,
     "descrizione": "descrizione per l'insegnamento",
     "superato":true
-  }
+  },
    {
     "nome": "Matematica",
     "docente": "Parton",
@@ -22,7 +22,7 @@
     "semestre": 1,
     "descrizione": "descrizione per l'insegnamento",
     "superato":true
-  }
+  },
    {
     "nome": "Informatica",
     "docente": "Moscardelli",
